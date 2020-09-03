@@ -1,0 +1,14 @@
+Package: package
+Title: Satisfies package dependency
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Ryan",
+           family = "Lovett",
+           role = c("aut", "cre"),
+           email = "rylo@berkeley.edu")
+Description: This package satisfies "package" package dependency.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.0
